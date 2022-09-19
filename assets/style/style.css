@@ -1,0 +1,8 @@
+/* BASIC STYLES HERE */
+
+.left-bar,
+.end-bar,
+.main-content {
+  max-height: 100vh;
+  overflow: auto;
+}
